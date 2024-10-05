@@ -25,11 +25,8 @@ Make sure you have [Node.js](https://nodejs.org) and npm installed. Alternativel
 
    npm run dev
    # or
-
    yarn dev
-
    # or
-
    pnpm dev
    ```
 
